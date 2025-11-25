@@ -115,7 +115,7 @@ T1078 – Valid Accounts
 Even if an account is compromised, privilege is restricted.
 
 T1548 – Abuse Elevation Control Mechanisms
-Removal of sudo access prevents attempts to misuse elevation tools.
+Removal of sudo access prevents attempts to misuse elevation tools..
 
  Conclusion
 
