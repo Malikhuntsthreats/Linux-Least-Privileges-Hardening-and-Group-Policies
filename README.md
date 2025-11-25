@@ -113,7 +113,6 @@ Permission enforcement
 
 Failed escalation attempt
 
-These images demonstrate the security controls visually for your portfolio.
 
 🔱 MITRE ATT&CK Mapping
 Relevant Mitigations
@@ -150,6 +149,7 @@ Controls user capabilities
 
 Protects sensitive system areas
 
+         and
+
 Ensures operational security
 
-By documenting and demonstrating least privilege on Linux, this project strengthens your portfolio and showcases real technical ability.
