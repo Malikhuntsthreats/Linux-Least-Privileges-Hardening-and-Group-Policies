@@ -55,16 +55,16 @@ groups expuser
 ![Verify Group Membership](/mnt/data/VirtualBox_Security lS privlege #4.png)
 
 5. Remove unnecessary group memberships
-sudo deluser expuser users
 
+sudo deluser expuser users
 
 This forces the user into an even stricter permission model.
 
 ![Group Removal](/mnt/data/VirtualBox_Security lS privlege #5.png)
 
 6. Verify sudo privileges
-sudo -l -U expuser
 
+sudo -l -U expuser
 
 This confirms the user cannot perform privileged actions.
 
@@ -148,8 +148,6 @@ Limits damage from compromised accounts
 Controls user capabilities
 
 Protects sensitive system areas
-
-         and
 
 Ensures operational security
 
